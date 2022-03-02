@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Hanna%20Kim&fontSize=50)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:o3ohanas@gmail.com)](mailto:o3ohanas@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/hana-275-programming/9d15b22d0376464db9176f252fa254d3)
+[![Notion Badge](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)](https://hana-275-programming.notion.site/Kim-Han-na-277494fe48574dd2af7fe9c39b151421)
 	
 Skills
 ---
